@@ -22,10 +22,30 @@ digraph {
 "Lettre d'amour" -> "Mourre à trois"
 "Mourre à trois" -> "Trois ptits chats"
 
+"Marabout" -> "Bout d'cigare"
+"Bout d'cigare" -> "Gare perrrache"
+"Gare perrrache" -> "Rage de dent"
+"Rage de dent" -> "Dentifrice"
+"Dentifrice" -> "Frise à plat"
+"Frise à plat" -> "Platonique"
+"Platonique" -> "Nick Carter"
+"Nick Carter" -> "Terrassier"
+
 "Paillasson" -> "Somnifère"
 "Somnifère" -> "Fer à cheval"
 "Fer à cheval" -> "Cheval de Troie"
 "Cheval de Troie" -> "Trois ptits chats"
+
+"Ferme ta gueule" -> "Gueule de bois"
+"Gueule de bois" -> "Boisson chaude"
+
+"Chaudière" -> "Tierce basse"
+"Tierce basse" -> "Basse-court"
+"Basse-court" -> "Courtisane"
+"Courtisane" -> "Zane d'arc"
+"Zane d'arc" -> "D'arc en ciel"
+"D'arc en ciel" -> "Ciel couvert"
+"Ciel couvert" -> "Vermifuge"
 
 "Pied à terre" -> "Terrassier"
 "Terrassier" -> "Scier du bois"
